@@ -1,2 +1,2 @@
 # modulo2desafio1
-desafio 2 - sistema de mensajeria
+desafio 1 - sistema de mensajeria
